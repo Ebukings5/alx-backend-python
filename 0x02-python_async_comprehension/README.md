@@ -1,0 +1,2 @@
+# async comprehension
+https://peps.python.org/pep-0492/ and https://peps.python.org/pep-0525/  introduce support for native coroutines and asynchronous generators using async / await syntax. This PEP proposes to add asynchronous versions of list, set, dict comprehensions and generator expressions.
